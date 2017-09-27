@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://app-global.pgyer.com/da33de1d9e5049225c6e6dfb91b10447.ipa?e=1506479911&amp;attname=DialChat.ipa&amp;token=6fYeQ7_TVB5L0QSzosNFfw2HU8eJhAirMF5VxV9G:4X0YaL8U1xox48b6LqGpxNatLjw=&amp;sign=507e21370639cd308c5f6ada2225d7de&amp;t=59cb0f27</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://o1wh05aeh.qnssl.com/image/view/app_icons/ab2e11a04bdef0fe2c759d13da133404/120</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://o1wh05aeh.qnssl.com/image/view/app_icons/ab2e11a04bdef0fe2c759d13da133404/120</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.protruly.dialchat
+
+</string>
+				<key>bundle-version</key>
+				<string>1.0.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>DialChat</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
